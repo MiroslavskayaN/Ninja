@@ -1,4 +1,8 @@
-.content {
+.postsBlock {
+  margin-top: 40px;
   grid-area: c;
 }
 
+.posts {
+  margin-top: 20px;
+}
