@@ -10,7 +10,7 @@ const App = (props) => {
 		<BrowserRouter>
 			<div className="b-wrapper">
 				<Header />
-				<Nav />
+				<Nav state={props.state.navbar} />
 				<div className="b-wrapper-content">
 					<Route
 						path="/dialogs"

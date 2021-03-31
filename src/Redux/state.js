@@ -21,6 +21,15 @@ let state = {
 			{ id: 5, name: "Arthur" },
 		],
 	},
+	navbar: {
+		friends: [
+			{ id: 1, name: "Stasy" },
+			{ id: 2, name: "Andrew" },
+			{ id: 3, name: "Alex" },
+			{ id: 4, name: "Ally" },
+			{ id: 5, name: "Arthur" },
+		],
+	},
 };
 
 export default state;
